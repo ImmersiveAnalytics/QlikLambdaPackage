@@ -1,0 +1,68 @@
+div.qv-object-realtime {
+	overflow: auto;
+}
+
+.qv-object-realtime .d3vl_area {
+  font: 10px sans-serif;
+}
+
+.qv-object-realtime .d3vl_area .area {
+  fill: steelblue;
+}
+
+.qv-object-realtime .d3vl_line {
+  font-size: 11px ;
+  color: #AAA;
+}
+
+.qv-object-realtime .d3vl_line .axis-label {
+  font-size: 12px ;
+}
+
+.qv-object-realtime .d3vl_line .axis path,
+.qv-object-realtime .d3vl_line .axis line {
+  fill: none;
+  stroke: #AAA;
+  shape-rendering: crispEdges;
+}
+
+/* Uncomment for invisible X axis
+  .qv-object-d3-time-line .d3vl_line .x.axis path {
+  display: none;
+} */
+
+.qv-object-realtime .d3vl_line .line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.qv-object-realtime .d3vl_line .focus .tooltip {
+  font-size: 10px ;
+  font-weight: bold;
+  fill: #444; /* font colour */
+  opacity: 0.9;
+}
+
+/* Future Use - multi-line charts
+.qv-object-d3-time-line .d3vl_multi_line {
+  font: 10px sans-serif;
+}
+
+.qv-object-d3-time-line .d3vl_multi_line .axis path,
+.qv-object-d3-time-line .d3vl_multi_line .axis line {
+  fill: none;
+  stroke: #222;
+  shape-rendering: crispEdges;
+}
+
+.qv-object-d3-time-line .d3vl_multi_line .x.axis path {
+  display: none;
+}
+
+.qv-object-d3-time-line .d3vl_multi_line .line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+ */
