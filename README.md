@@ -1,4 +1,4 @@
-# LambdaPackage
+# Qlik Lambda Package
 Node.js websocket services to stream realtime data into Qlik Sense and Unity
 
 ## Requirements
@@ -13,3 +13,5 @@ Node.js websocket services to stream realtime data into Qlik Sense and Unity
 - Then run Unity app
 
 *Do not have Qlik apps open in Desktop or browser while trying to run Unity*
+
+**Many thanks to [Chris Larsen](https://github.com/chrislarsenqlik) for creating the Lamba package**
