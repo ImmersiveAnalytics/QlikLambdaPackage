@@ -9,6 +9,8 @@ Node.js websocket services to stream realtime data into Qlik Sense and Unity
   - Realtime Extension
   - RealtimeNew
   - VR_Mashup
+  - Reload button
+  - Alternate states extensions
 - Must have Node.js installed
 
 ## To Run
