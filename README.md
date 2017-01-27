@@ -4,7 +4,11 @@ Node.js websocket services to stream realtime data into Qlik Sense and Unity
 ## Requirements
 - *Used in conjunction with  [Qlik Manufacturing Analytics](https://github.com/ImmersiveAnalytics/ManufacturingAnalytics)*
 - Must have Qlik Sense Desktop installed and running
-- Must add Qlik apps into Qlik Sense app folder
+- Must add Qlik apps (qvf files) into Qlik Sense app folder
+- Must add Qlik extensions and mashup into Qlik Sense extension folder
+  - Realtime Extension
+  - RealtimeNew
+  - VR_Mashup
 - Must have Node.js installed
 
 ## To Run
